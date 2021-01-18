@@ -1,0 +1,63 @@
+C:\Users\kovar\Desktop\C#\Toys\Toys\bin\Debug\Toys.exe.config
+C:\Users\kovar\Desktop\C#\Toys\Toys\bin\Debug\Toys.exe
+C:\Users\kovar\Desktop\C#\Toys\Toys\bin\Debug\Toys.pdb
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.csprojAssemblyReference.cache
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Properties.Resources.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.csproj.GenerateResource.cache
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.csproj.CoreCompileInputs.cache
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.exe
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.pdb
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.MainForm.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.add_data.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.update.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Results.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Login.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Calendar.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Events.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Adressbook.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Adress_add.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Adress_update.resources
+C:\Users\kovar\Desktop\C#\Toys\Toys\bin\Debug\Toys.accdb
+C:\Users\kovar\Desktop\C#\Toys\Toys\obj\Debug\Toys.Event_add.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\bin\Debug\Toys.accdb
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\bin\Debug\Toys.exe.config
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\bin\Debug\Toys.exe
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\bin\Debug\Toys.pdb
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.csprojAssemblyReference.cache
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.add_data.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Adressbook.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Adress_add.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Adress_update.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Calendar.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Events.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Event_add.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Login.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.MainForm.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Properties.Resources.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.Results.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.update.resources
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.csproj.GenerateResource.cache
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.csproj.CoreCompileInputs.cache
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.exe
+C:\Users\RJ\Desktop\Предметы)\Технология разработки ПО\КП по ТРПО_19-ЗКБс-ПР1_Будаева Р.М\C#\Toys\Toys\obj\Debug\Toys.pdb
+D:\Temp\НоваяСессия\C#\Toys\Toys\bin\Debug\Toys.accdb
+D:\Temp\НоваяСессия\C#\Toys\Toys\bin\Debug\Toys.exe.config
+D:\Temp\НоваяСессия\C#\Toys\Toys\bin\Debug\Toys.exe
+D:\Temp\НоваяСессия\C#\Toys\Toys\bin\Debug\Toys.pdb
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.csprojAssemblyReference.cache
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.add_data.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Adressbook.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Adress_add.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Adress_update.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Calendar.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Events.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Event_add.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Login.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.MainForm.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Properties.Resources.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Results.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.update.resources
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.csproj.GenerateResource.cache
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.csproj.CoreCompileInputs.cache
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.exe
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.pdb
