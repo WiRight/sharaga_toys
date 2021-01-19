@@ -48,7 +48,6 @@ D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.csprojAssemblyReferen
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.add_data.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Adressbook.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Adress_add.resources
-D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Adress_update.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Calendar.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Events.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Event_add.resources
@@ -61,3 +60,4 @@ D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.csproj.GenerateResour
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.csproj.CoreCompileInputs.cache
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.exe
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.pdb
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\Debug\Toys.Address_update.resources

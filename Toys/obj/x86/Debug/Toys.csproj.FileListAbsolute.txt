@@ -5,7 +5,6 @@ D:\Temp\НоваяСессия\C#\Toys\Toys\bin\x86\Debug\Toys.pdb
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.add_data.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.Adressbook.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.Adress_add.resources
-D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.Adress_update.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.Calendar.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.Events.resources
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.Event_add.resources
@@ -18,4 +17,4 @@ D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.csproj.GenerateRe
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.csproj.CoreCompileInputs.cache
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.exe
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.pdb
-D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.csprojAssemblyReference.cache
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.Address_update.resources

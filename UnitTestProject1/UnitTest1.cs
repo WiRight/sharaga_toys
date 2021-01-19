@@ -41,22 +41,23 @@ namespace UnitTestProject1
             });
 
             Assert.AreEqual(1, result);
+            Assert.AreEqual(1, result);
 
-            using (var connection = new OleDbConnection(ConnectionString()))
-            {
-                const string query = "select * from Adressbook WHERE Id = @id";
+            /*            using (var connection = new OleDbConnection(ConnectionString()))
+                        {
+                            const string query = "select * from Adressbook WHERE Id = @id";
 
-                using (var command = new OleDbCommand(query, connection))
-                {
-                    command.Parameters.AddWithValue("@id", Id);
+                            using (var command = new OleDbCommand(query, connection))
+                            {
+                                command.Parameters.AddWithValue("@id", Id);
 
-                    connection.Open();
+                                connection.Open();
 
-                    result = command.ExecuteNonQuery();
+                                result = command.ExecuteNonQuery();
 
-                    Assert.AreEqual(1, result);
-                }
-            }
+                                Assert.AreEqual(1, result);
+                            }
+                        }*/
         }
 
         [TestMethod]

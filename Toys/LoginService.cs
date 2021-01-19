@@ -17,8 +17,6 @@ namespace Toys
         /// <returns>1 в случае если пользователь есть</returns>
         public static bool Login(string login, string password)
         {
-            return login == "Admin" && password == "1234";
-
             var myConn = new OleDbConnection(Properties.Settings.Default.ConnectionString);
             myConn.Open();
 
