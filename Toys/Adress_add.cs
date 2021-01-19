@@ -21,7 +21,7 @@ namespace Toys
             if (textBox1.Text != "" && textBox2.Text != "" && textBox3.Text != "" && textBox4.Text != "" &&
                 textBox5.Text != "")
             {
-                var result = AddressService.Add(new AddressAddData
+                var result = AddressService.Add(new AddressData
                 {
                     Id = int.Parse(textBox1.Text),
                     FirstName = textBox2.Text,

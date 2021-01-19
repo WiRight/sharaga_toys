@@ -85,11 +85,11 @@
     <Compile Include="Adress_add.Designer.cs">
       <DependentUpon>Adress_add.cs</DependentUpon>
     </Compile>
-    <Compile Include="Adress_update.cs">
+    <Compile Include="Address_update.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Adress_update.Designer.cs">
-      <DependentUpon>Adress_update.cs</DependentUpon>
+    <Compile Include="Address_update.Designer.cs">
+      <DependentUpon>Address_update.cs</DependentUpon>
     </Compile>
     <Compile Include="Calendar.cs">
       <SubType>Form</SubType>
@@ -175,8 +175,8 @@
     <EmbeddedResource Include="Adress_add.resx">
       <DependentUpon>Adress_add.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Adress_update.resx">
-      <DependentUpon>Adress_update.cs</DependentUpon>
+    <EmbeddedResource Include="Address_update.resx">
+      <DependentUpon>Address_update.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Calendar.resx">
       <DependentUpon>Calendar.cs</DependentUpon>

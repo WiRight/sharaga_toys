@@ -1,6 +1,6 @@
 ﻿namespace Toys
 {
-    partial class Adress_update
+    partial class Address_update
     {
         /// <summary>
         /// Required designer variable.
@@ -183,7 +183,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "Adress_update";
+            this.Name = "Address_update";
             this.Text = "Изменить данные";
             this.Load += new System.EventHandler(this.Adress_update_Load);
             this.ResumeLayout(false);

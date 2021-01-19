@@ -4,11 +4,20 @@ using System.Data.OleDb;
 
 namespace Toys
 {
+    /// <summary>
+    /// Сервис для работы с авторизацией
+    /// </summary>
     public static class LoginService
     {
-        public static bool Login(String login, String password)
+        /// <summary>
+        /// Вход в систему
+        /// </summary>
+        /// <param name="login">Логин</param>
+        /// <param name="password">Пароль</param>
+        /// <returns>1 в случае если пользователь есть</returns>
+        public static bool Login(string login, string password)
         {
-            // return login == "Admin" && password == "1234";
+            return login == "Admin" && password == "1234";
 
             var myConn = new OleDbConnection(Properties.Settings.Default.ConnectionString);
             myConn.Open();

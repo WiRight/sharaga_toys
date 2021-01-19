@@ -49,7 +49,7 @@ namespace Toys
                 string company = dataGridView1.SelectedRows[0].Cells[4].Value.ToString();
                 string phone_number = dataGridView1.SelectedRows[0].Cells[5].Value.ToString();
 
-                Adress_update adr_upd = new Adress_update(id, first_name, last_name, birtday, company, phone_number);
+                Address_update adr_upd = new Address_update(id, first_name, last_name, birtday, company, phone_number);
                 adr_upd.ShowDialog();
             }
             else

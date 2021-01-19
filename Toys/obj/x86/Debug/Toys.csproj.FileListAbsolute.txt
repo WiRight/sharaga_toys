@@ -18,3 +18,4 @@ D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.csproj.GenerateRe
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.csproj.CoreCompileInputs.cache
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.exe
 D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.pdb
+D:\Temp\НоваяСессия\C#\Toys\Toys\obj\x86\Debug\Toys.csprojAssemblyReference.cache

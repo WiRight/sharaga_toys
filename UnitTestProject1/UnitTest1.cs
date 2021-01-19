@@ -8,11 +8,14 @@ namespace UnitTestProject1
     [TestClass]
     public class UnitTest1
     {
-        private TestContext TestContext { get; set; }
+        public TestContext TestContext { get; set; }
+
+        private const int Id = 99;
 
         [TestMethod]
         public void TestLogin()
         {
+            // Тест авторизации - Поиск
             Assert.IsTrue(LoginService.Login("Admin", "1234"));
 
             Assert.IsFalse(LoginService.Login("Admin1", "1234"));
@@ -27,11 +30,9 @@ namespace UnitTestProject1
         {
             // Тест добавления адреса - вставки в БД
 
-            const int id = 99;
-
-            var result = AddressService.Add(new AddressAddData
+            var result = AddressService.Add(new AddressData
             {
-                Id = id,
+                Id = Id,
                 FirstName = "Tester",
                 Birthday = new DateTime(1996, 3, 10),
                 Company = "Dizoft",
@@ -47,7 +48,7 @@ namespace UnitTestProject1
 
                 using (var command = new OleDbCommand(query, connection))
                 {
-                    command.Parameters.AddWithValue("@id", id);
+                    command.Parameters.AddWithValue("@id", Id);
 
                     connection.Open();
 
@@ -58,9 +59,27 @@ namespace UnitTestProject1
             }
         }
 
-        private string ConnectionString()
+        [TestMethod]
+        public void TestUpdate()
         {
-            return (string) TestContext.Properties["connectionString"];
+            // Тест обновления адреса - обновление в БД
+
+            var result = AddressService.Update(new AddressData
+            {
+                Id = Id,
+                Birthday = new DateTime(2000, 1, 10),
+                Company = "Diz",
+                FirstName = "Tes",
+                SecondName = "WiR",
+                PhoneNumber = "+7999333221"
+            });
+
+            Assert.AreEqual(1, result);
+        }
+
+        private static string ConnectionString()
+        {
+            return "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\\Toys.accdb";
         }
     }
 }
